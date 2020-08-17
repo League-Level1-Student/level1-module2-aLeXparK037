@@ -14,8 +14,10 @@ public class SeaCreature {
 
 
 	private String name;
+	
 
 	SeaCreature(String name) {
+		
 		this.name = name;
 	}
 
